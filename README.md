@@ -1,4 +1,4 @@
-# Machine-Learning-Megaline
+# Precision-Model-Plan-Matcher
 
 ## Megaline Plan Matcher: Precision Model for Subscriber Plan Recommendation
 
